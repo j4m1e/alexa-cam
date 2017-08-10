@@ -1,0 +1,6 @@
+CreateIntent create a cloud instance
+CreateIntent create an instance
+CreateIntent build a cloud instance
+CreateIntent build an instance
+CreateIntent deploy a cloud instance
+CreateIntent deploy an instance
